@@ -6,3 +6,26 @@
 
 
 
+for m in range(21):
+    print(m)
+
+print("break")
+
+
+for m in range(3, 30):
+    if m%2 != 0:
+        print(m)
+
+
+print("break")
+
+
+for m in range(12,-15,-1):
+    if m%2 == 0:
+        print(m)
+
+print("break")
+
+for m in range(20, 51):
+     if m%3 == 0:
+         print(m)
